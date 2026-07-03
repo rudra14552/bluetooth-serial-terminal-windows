@@ -1,0 +1,21 @@
+{
+  "last_port": "COM9",
+  "last_baud": 9600,
+  "devices": {
+    "COM13": {
+      "device_name": "Standard Serial over Bluetooth link (COM13)",
+      "last_connected": "2026-04-04T22:03:34.816287",
+      "last_baud": 9600
+    },
+    "COM4": {
+      "device_name": "Standard Serial over Bluetooth link (COM4)",
+      "last_connected": "2026-07-03T13:27:15.308725",
+      "last_baud": 9600
+    },
+    "COM9": {
+      "device_name": "Standard Serial over Bluetooth link (COM9)",
+      "last_connected": "2026-07-03T13:29:18.351106",
+      "last_baud": 9600
+    }
+  }
+}

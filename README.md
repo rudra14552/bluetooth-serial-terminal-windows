@@ -4,6 +4,8 @@ A lightweight Windows desktop app for chatting with Bluetooth serial devices (HC
 
 I built this because I often wanted to use a Bluetooth serial terminal from my laptop and couldn't find a decent app for it — so I made one myself, with help from [Replit](https://replit.com).
 
+<img width="1121" height="910" alt="Screenshot 2026-07-03 145553" src="https://github.com/user-attachments/assets/4ddbe5f7-9c97-4b59-ab7f-cfad20d871f0" />
+
 
 ## Features
 
@@ -31,6 +33,12 @@ I built this because I often wanted to use a Bluetooth serial terminal from my l
 
 ## Setting Up a Bluetooth COM Port (Do This First)
 
+
+
+https://github.com/user-attachments/assets/3e468a87-adb7-4ab6-b0c5-c4a38533dd27
+
+
+
 Before the app can talk to your Bluetooth device, Windows needs a virtual COM port for it. This app does **not** create the connection itself — it just talks over a COM port that Windows creates.
 
 1. Open **Settings → Bluetooth & devices → More Bluetooth settings**
@@ -45,6 +53,12 @@ Before the app can talk to your Bluetooth device, Windows needs a virtual COM po
 5. Click **OK** — Windows will assign a COM port number (e.g. COM9) to the device
 
 ## How to Use
+
+
+
+https://github.com/user-attachments/assets/7a770d9a-ce07-4de9-9a4e-96354b06e6bd
+
+
 
 1. **Set up the COM port** first (see above) if you haven't already
 2. **Run the app**:

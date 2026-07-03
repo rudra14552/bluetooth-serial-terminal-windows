@@ -94,6 +94,9 @@ The app automatically saves the last connected port to `device_history.json`. Th
 - ESP32 with Bluetooth
 - Any Bluetooth device supporting serial communication (SPP profile)
 
+## Note
+This isn't a polished, fully-fledged application — it's a personal utility tool I built for my own use, and it's helped me out a lot. Sharing it here in case others find it useful too.
+
 ## Troubleshooting
 
 ### No COM Ports Found
